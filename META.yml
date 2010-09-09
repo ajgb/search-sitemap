@@ -41,4 +41,5 @@ requires:
   namespace::clean: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 2.10
+  repository: git://github.com/ajgb/search-sitemap.git
+version: 2.11
