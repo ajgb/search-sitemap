@@ -42,4 +42,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/ajgb/search-sitemap.git
-version: 2.11
+version: 2.12
